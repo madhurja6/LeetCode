@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/madhurja6/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhurja6/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/madhurja6/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/madhurja6/LeetCode/tree/master/0018-4sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhurja6/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/madhurja6/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/madhurja6/LeetCode/tree/master/0018-4sum) |
 ## Sorting
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/madhurja6/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
