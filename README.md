@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/madhurja6/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/madhurja6/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madhurja6/LeetCode/tree/master/0013-roman-to-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
 | ------- |
