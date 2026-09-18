@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/madhurja6/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/madhurja6/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/madhurja6/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/madhurja6/LeetCode/tree/master/0048-rotate-image) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/madhurja6/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/madhurja6/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/madhurja6/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/madhurja6/LeetCode/tree/master/0048-rotate-image) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/madhurja6/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/madhurja6/LeetCode/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
