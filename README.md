@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/madhurja6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/madhurja6/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/madhurja6/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/madhurja6/LeetCode/tree/master/0053-maximum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhurja6/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/madhurja6/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/madhurja6/LeetCode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhurja6/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/madhurja6/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/madhurja6/LeetCode/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
