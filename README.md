@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/madhurja6/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/madhurja6/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madhurja6/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/madhurja6/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/madhurja6/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/madhurja6/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/madhurja6/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/madhurja6/LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/madhurja6/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/madhurja6/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/madhurja6/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
