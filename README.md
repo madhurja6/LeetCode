@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/madhurja6/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madhurja6/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhurja6/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/madhurja6/LeetCode/tree/master/0066-plus-one) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/madhurja6/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/madhurja6/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/madhurja6/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/madhurja6/LeetCode/tree/master/0066-plus-one) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
