@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/madhurja6/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/madhurja6/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/madhurja6/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/madhurja6/LeetCode/tree/master/0079-word-search) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/madhurja6/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/madhurja6/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhurja6/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/madhurja6/LeetCode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/madhurja6/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhurja6/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/madhurja6/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/madhurja6/LeetCode/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhurja6/LeetCode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/madhurja6/LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/madhurja6/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
