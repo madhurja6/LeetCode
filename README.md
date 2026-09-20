@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/madhurja6/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurja6/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/madhurja6/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/madhurja6/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/madhurja6/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurja6/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/madhurja6/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/madhurja6/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
