@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/madhurja6/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhurja6/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/madhurja6/LeetCode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/madhurja6/LeetCode/tree/master/0115-distinct-subsequences) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/madhurja6/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/madhurja6/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/madhurja6/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/madhurja6/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Manacher
 |  |
 | ------- |
