@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/madhurja6/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/madhurja6/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhurja6/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0164-maximum-gap](https://github.com/madhurja6/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhurja6/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madhurja6/LeetCode/tree/master/0169-majority-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/madhurja6/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/madhurja6/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/madhurja6/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/madhurja6/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -322,4 +324,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhurja6/LeetCode/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/madhurja6/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/madhurja6/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/madhurja6/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
