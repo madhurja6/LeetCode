@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhurja6/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madhurja6/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/madhurja6/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/madhurja6/LeetCode/tree/master/0189-rotate-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/madhurja6/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhurja6/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/madhurja6/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/madhurja6/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/madhurja6/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhurja6/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/madhurja6/LeetCode/tree/master/0189-rotate-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
