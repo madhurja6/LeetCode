@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhurja6/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/madhurja6/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/madhurja6/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/madhurja6/LeetCode/tree/master/0200-number-of-islands) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/madhurja6/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/madhurja6/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/madhurja6/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/madhurja6/LeetCode/tree/master/0200-number-of-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/madhurja6/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/madhurja6/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhurja6/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/madhurja6/LeetCode/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/madhurja6/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhurja6/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhurja6/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/madhurja6/LeetCode/tree/master/0200-number-of-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/madhurja6/LeetCode/tree/master/0164-maximum-gap) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/madhurja6/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
