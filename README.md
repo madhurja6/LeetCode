@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/madhurja6/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/madhurja6/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhurja6/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/madhurja6/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/madhurja6/LeetCode/tree/master/0263-ugly-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/madhurja6/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhurja6/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/madhurja6/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/madhurja6/LeetCode/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhurja6/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/madhurja6/LeetCode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
