@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/madhurja6/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/madhurja6/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhurja6/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/madhurja6/LeetCode/tree/master/0290-word-pattern) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/madhurja6/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/madhurja6/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/madhurja6/LeetCode/tree/master/0290-word-pattern) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
