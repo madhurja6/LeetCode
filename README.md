@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/madhurja6/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/madhurja6/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/madhurja6/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/madhurja6/LeetCode/tree/master/0292-nim-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -455,4 +456,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhurja6/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhurja6/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhurja6/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhurja6/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhurja6/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhurja6/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
