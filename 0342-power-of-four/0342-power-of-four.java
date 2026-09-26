@@ -6,7 +6,7 @@ class Solution {
             if (Math.pow(4, i) == n)
                 return true;
             if (Math.pow(4, i) > n)
-                break;
+                return false;
         }
         return false;
     }
