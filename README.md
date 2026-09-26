@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhurja6/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhurja6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurja6/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhurja6/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhurja6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurja6/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhurja6/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurja6/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/madhurja6/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madhurja6/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/madhurja6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/madhurja6/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/madhurja6/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/madhurja6/LeetCode/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
