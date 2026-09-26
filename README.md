@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhurja6/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhurja6/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/madhurja6/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/madhurja6/LeetCode/tree/master/0342-power-of-four) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/madhurja6/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhurja6/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/madhurja6/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/madhurja6/LeetCode/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/madhurja6/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhurja6/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/madhurja6/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/madhurja6/LeetCode/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
