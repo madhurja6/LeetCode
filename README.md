@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/madhurja6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurja6/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/madhurja6/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/madhurja6/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/madhurja6/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/madhurja6/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/madhurja6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/madhurja6/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhurja6/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
