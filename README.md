@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/madhurja6/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/madhurja6/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/madhurja6/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/madhurja6/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/madhurja6/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/madhurja6/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/madhurja6/LeetCode/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/madhurja6/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/madhurja6/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/madhurja6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/madhurja6/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/madhurja6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/madhurja6/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/madhurja6/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -457,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/madhurja6/LeetCode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/madhurja6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/madhurja6/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
