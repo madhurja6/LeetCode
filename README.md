@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/madhurja6/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/madhurja6/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/madhurja6/LeetCode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/madhurja6/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
 |  |
 | ------- |
