@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/madhurja6/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/madhurja6/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhurja6/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/madhurja6/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/madhurja6/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhurja6/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/madhurja6/LeetCode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/madhurja6/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
