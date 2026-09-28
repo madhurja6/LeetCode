@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/madhurja6/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/madhurja6/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/madhurja6/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/madhurja6/LeetCode/tree/master/0561-array-partition) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/madhurja6/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/madhurja6/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/madhurja6/LeetCode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/madhurja6/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/madhurja6/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/madhurja6/LeetCode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/madhurja6/LeetCode/tree/master/0561-array-partition) |
 ## Trie
 |  |
 | ------- |
@@ -561,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhurja6/LeetCode/tree/master/0292-nim-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/madhurja6/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
