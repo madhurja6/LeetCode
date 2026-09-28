@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/madhurja6/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/madhurja6/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/madhurja6/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0539-minimum-time-difference](https://github.com/madhurja6/LeetCode/tree/master/0539-minimum-time-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/madhurja6/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/madhurja6/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/madhurja6/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/madhurja6/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/madhurja6/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/madhurja6/LeetCode/tree/master/0500-keyboard-row) |
+| [0539-minimum-time-difference](https://github.com/madhurja6/LeetCode/tree/master/0539-minimum-time-difference) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/madhurja6/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/madhurja6/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/madhurja6/LeetCode/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/madhurja6/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
