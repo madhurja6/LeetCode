@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/madhurja6/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/madhurja6/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/madhurja6/LeetCode/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/madhurja6/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
