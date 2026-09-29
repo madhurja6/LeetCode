@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/madhurja6/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madhurja6/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/madhurja6/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0860-lemonade-change](https://github.com/madhurja6/LeetCode/tree/master/0860-lemonade-change) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/madhurja6/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/madhurja6/LeetCode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/madhurja6/LeetCode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/madhurja6/LeetCode/tree/master/0860-lemonade-change) |
 ## Trie
 |  |
 | ------- |
