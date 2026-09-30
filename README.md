@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhurja6/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurja6/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1014-best-sightseeing-pair](https://github.com/madhurja6/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/madhurja6/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/madhurja6/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/madhurja6/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1014-best-sightseeing-pair](https://github.com/madhurja6/LeetCode/tree/master/1014-best-sightseeing-pair) |
 ## Manacher
 |  |
 | ------- |
