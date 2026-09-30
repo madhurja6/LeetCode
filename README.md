@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/madhurja6/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhurja6/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhurja6/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/madhurja6/LeetCode/tree/master/0567-permutation-in-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/madhurja6/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/madhurja6/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/madhurja6/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/madhurja6/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhurja6/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0977-squares-of-a-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
