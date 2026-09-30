@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/madhurja6/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/madhurja6/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/madhurja6/LeetCode/tree/master/0912-sort-an-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/madhurja6/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/madhurja6/LeetCode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/madhurja6/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/madhurja6/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/madhurja6/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -643,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/madhurja6/LeetCode/tree/master/0877-stone-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/madhurja6/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
