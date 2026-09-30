@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/madhurja6/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/madhurja6/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/madhurja6/LeetCode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/madhurja6/LeetCode/tree/master/1051-height-checker) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/madhurja6/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhurja6/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/madhurja6/LeetCode/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/madhurja6/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/madhurja6/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/madhurja6/LeetCode/tree/master/1051-height-checker) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -678,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/madhurja6/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/madhurja6/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
