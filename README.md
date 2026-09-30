@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/madhurja6/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/madhurja6/LeetCode/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/madhurja6/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/madhurja6/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/madhurja6/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/madhurja6/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/madhurja6/LeetCode/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/madhurja6/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/madhurja6/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/madhurja6/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/madhurja6/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/madhurja6/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhurja6/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/madhurja6/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Monotonic Queue
 |  |
 | ------- |
