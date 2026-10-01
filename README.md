@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/madhurja6/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/madhurja6/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/madhurja6/LeetCode/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/madhurja6/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhurja6/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhurja6/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/madhurja6/LeetCode/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/madhurja6/LeetCode/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
