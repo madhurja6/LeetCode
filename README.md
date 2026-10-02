@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/madhurja6/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/madhurja6/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/madhurja6/LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Tree
 |  |
 | ------- |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/madhurja6/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurja6/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/madhurja6/LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/madhurja6/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurja6/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1302-deepest-leaves-sum](https://github.com/madhurja6/LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/madhurja6/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/madhurja6/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/madhurja6/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/madhurja6/LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
