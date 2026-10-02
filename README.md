@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/madhurja6/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhurja6/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/madhurja6/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/madhurja6/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/madhurja6/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/madhurja6/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1367-linked-list-in-binary-tree](https://github.com/madhurja6/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurja6/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/madhurja6/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1367-linked-list-in-binary-tree](https://github.com/madhurja6/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurja6/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/madhurja6/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1367-linked-list-in-binary-tree](https://github.com/madhurja6/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
