@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhurja6/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/madhurja6/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1395-count-number-of-teams](https://github.com/madhurja6/LeetCode/tree/master/1395-count-number-of-teams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/madhurja6/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1014-best-sightseeing-pair](https://github.com/madhurja6/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/madhurja6/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1395-count-number-of-teams](https://github.com/madhurja6/LeetCode/tree/master/1395-count-number-of-teams) |
 ## Manacher
 |  |
 | ------- |
@@ -748,4 +750,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/madhurja6/LeetCode/tree/master/1051-height-checker) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/madhurja6/LeetCode/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/madhurja6/LeetCode/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
