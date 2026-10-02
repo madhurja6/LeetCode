@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/madhurja6/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/madhurja6/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/madhurja6/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/madhurja6/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/madhurja6/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhurja6/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/madhurja6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/madhurja6/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/madhurja6/LeetCode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/madhurja6/LeetCode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/madhurja6/LeetCode/tree/master/0860-lemonade-change) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/madhurja6/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 ## Trie
 |  |
 | ------- |
