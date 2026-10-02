@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/madhurja6/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1310-xor-queries-of-a-subarray](https://github.com/madhurja6/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhurja6/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/madhurja6/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/madhurja6/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhurja6/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/madhurja6/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madhurja6/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/madhurja6/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhurja6/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/madhurja6/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/madhurja6/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/madhurja6/LeetCode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhurja6/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/madhurja6/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/madhurja6/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhurja6/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
