@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/madhurja6/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/madhurja6/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/madhurja6/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1310-xor-queries-of-a-subarray](https://github.com/madhurja6/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/madhurja6/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/madhurja6/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/madhurja6/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1310-xor-queries-of-a-subarray](https://github.com/madhurja6/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurja6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/madhurja6/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1310-xor-queries-of-a-subarray](https://github.com/madhurja6/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Quickselect
 |  |
 | ------- |
