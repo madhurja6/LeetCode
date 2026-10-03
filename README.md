@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/madhurja6/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/madhurja6/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/madhurja6/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/madhurja6/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/madhurja6/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1310-xor-queries-of-a-subarray](https://github.com/madhurja6/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1480-running-sum-of-1d-array](https://github.com/madhurja6/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Quickselect
 |  |
 | ------- |
