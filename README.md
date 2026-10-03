@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/madhurja6/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhurja6/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/madhurja6/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/madhurja6/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/madhurja6/LeetCode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/madhurja6/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 ## Primality Test
 |  |
 | ------- |
@@ -786,4 +788,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhurja6/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/madhurja6/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
