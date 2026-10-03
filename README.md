@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/madhurja6/LeetCode/tree/master/1499-max-value-of-equation) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/madhurja6/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1512-number-of-good-pairs](https://github.com/madhurja6/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/madhurja6/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/madhurja6/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhurja6/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/madhurja6/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
