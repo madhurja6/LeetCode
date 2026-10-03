@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/madhurja6/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1499-max-value-of-equation](https://github.com/madhurja6/LeetCode/tree/master/1499-max-value-of-equation) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/madhurja6/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1512-number-of-good-pairs](https://github.com/madhurja6/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/madhurja6/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/madhurja6/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/madhurja6/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/madhurja6/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhurja6/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/madhurja6/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1512-number-of-good-pairs](https://github.com/madhurja6/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/madhurja6/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/madhurja6/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/madhurja6/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/madhurja6/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
