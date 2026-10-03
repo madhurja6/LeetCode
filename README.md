@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/madhurja6/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/madhurja6/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/madhurja6/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhurja6/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhurja6/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhurja6/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madhurja6/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhurja6/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/madhurja6/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/madhurja6/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1395-count-number-of-teams](https://github.com/madhurja6/LeetCode/tree/master/1395-count-number-of-teams) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhurja6/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Manacher
 |  |
 | ------- |
