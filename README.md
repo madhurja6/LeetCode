@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/madhurja6/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/madhurja6/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/madhurja6/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1441-build-an-array-with-stack-operations](https://github.com/madhurja6/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/madhurja6/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madhurja6/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurja6/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/madhurja6/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/madhurja6/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/madhurja6/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhurja6/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1441-build-an-array-with-stack-operations](https://github.com/madhurja6/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
