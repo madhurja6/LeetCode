@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/madhurja6/LeetCode/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/madhurja6/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhurja6/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1486-xor-operation-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/madhurja6/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1310-xor-queries-of-a-subarray](https://github.com/madhurja6/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/madhurja6/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
