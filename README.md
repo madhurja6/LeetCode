@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/madhurja6/LeetCode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhurja6/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/madhurja6/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhurja6/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhurja6/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhurja6/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/madhurja6/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhurja6/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/madhurja6/LeetCode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/madhurja6/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhurja6/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/madhurja6/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhurja6/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/madhurja6/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhurja6/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Quickselect
 |  |
 | ------- |
