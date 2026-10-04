@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/madhurja6/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/madhurja6/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1829-maximum-xor-for-each-query](https://github.com/madhurja6/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/madhurja6/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhurja6/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1829-maximum-xor-for-each-query](https://github.com/madhurja6/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 ## Matrix
 |  |
 | ------- |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/madhurja6/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/madhurja6/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhurja6/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1829-maximum-xor-for-each-query](https://github.com/madhurja6/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 ## Quickselect
 |  |
 | ------- |
