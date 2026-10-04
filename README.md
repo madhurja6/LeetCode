@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/madhurja6/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/madhurja6/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/madhurja6/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1652-defuse-the-bomb](https://github.com/madhurja6/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madhurja6/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhurja6/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1499-max-value-of-equation](https://github.com/madhurja6/LeetCode/tree/master/1499-max-value-of-equation) |
+| [1652-defuse-the-bomb](https://github.com/madhurja6/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
