@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/madhurja6/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/madhurja6/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/madhurja6/LeetCode/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhurja6/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/madhurja6/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1813-sentence-similarity-iii](https://github.com/madhurja6/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1861-rotating-the-box](https://github.com/madhurja6/LeetCode/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhurja6/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/madhurja6/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/madhurja6/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhurja6/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhurja6/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/madhurja6/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1792-maximum-average-pass-ratio](https://github.com/madhurja6/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhurja6/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhurja6/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Trie
 |  |
 | ------- |
