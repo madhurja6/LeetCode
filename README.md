@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/madhurja6/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1395-count-number-of-teams](https://github.com/madhurja6/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhurja6/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/madhurja6/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Manacher
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/madhurja6/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1518-water-bottles](https://github.com/madhurja6/LeetCode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/madhurja6/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/madhurja6/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/madhurja6/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhurja6/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/madhurja6/LeetCode/tree/master/0509-fibonacci-number) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/madhurja6/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/madhurja6/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/madhurja6/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/madhurja6/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhurja6/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/madhurja6/LeetCode/tree/master/0509-fibonacci-number) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/madhurja6/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
 |  |
 | ------- |
