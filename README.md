@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/madhurja6/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/madhurja6/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1753-maximum-score-from-removing-stones](https://github.com/madhurja6/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/madhurja6/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/madhurja6/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1753-maximum-score-from-removing-stones](https://github.com/madhurja6/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 ## Trie
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/madhurja6/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/madhurja6/LeetCode/tree/master/1499-max-value-of-equation) |
+| [1753-maximum-score-from-removing-stones](https://github.com/madhurja6/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 ## Merge Sort
 |  |
 | ------- |
