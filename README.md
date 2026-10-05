@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/madhurja6/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/madhurja6/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1925-count-square-sum-triples](https://github.com/madhurja6/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhurja6/LeetCode/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/madhurja6/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
