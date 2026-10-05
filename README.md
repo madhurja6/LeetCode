@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/madhurja6/LeetCode/tree/master/2028-find-missing-observations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/madhurja6/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/madhurja6/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2079-watering-plants](https://github.com/madhurja6/LeetCode/tree/master/2079-watering-plants) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/madhurja6/LeetCode/tree/master/2028-find-missing-observations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/madhurja6/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/madhurja6/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2079-watering-plants](https://github.com/madhurja6/LeetCode/tree/master/2079-watering-plants) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
