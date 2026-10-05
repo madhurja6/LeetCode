@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/madhurja6/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/madhurja6/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhurja6/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/madhurja6/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/madhurja6/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1813-sentence-similarity-iii](https://github.com/madhurja6/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/madhurja6/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/madhurja6/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhurja6/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1829-maximum-xor-for-each-query](https://github.com/madhurja6/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/madhurja6/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhurja6/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/madhurja6/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhurja6/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/madhurja6/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Quickselect
 |  |
 | ------- |
