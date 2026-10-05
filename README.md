@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhurja6/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/madhurja6/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1813-sentence-similarity-iii](https://github.com/madhurja6/LeetCode/tree/master/1813-sentence-similarity-iii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/madhurja6/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/madhurja6/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/madhurja6/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/madhurja6/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/madhurja6/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/madhurja6/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/madhurja6/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhurja6/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/madhurja6/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
