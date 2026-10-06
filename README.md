@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/madhurja6/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/madhurja6/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2109-adding-spaces-to-a-string](https://github.com/madhurja6/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/madhurja6/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/madhurja6/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/madhurja6/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/madhurja6/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/madhurja6/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
