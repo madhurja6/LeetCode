@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/madhurja6/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/madhurja6/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhurja6/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/madhurja6/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/madhurja6/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/madhurja6/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/madhurja6/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/madhurja6/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
