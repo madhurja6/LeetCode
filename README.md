@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/madhurja6/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhurja6/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/madhurja6/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/madhurja6/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhurja6/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/madhurja6/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/madhurja6/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhurja6/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/madhurja6/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
