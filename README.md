@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/madhurja6/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/madhurja6/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/madhurja6/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Hash Table
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/madhurja6/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhurja6/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/madhurja6/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/madhurja6/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Trie
 |  |
 | ------- |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/madhurja6/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/madhurja6/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/madhurja6/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/madhurja6/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Merge Sort
 |  |
 | ------- |
