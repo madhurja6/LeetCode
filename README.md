@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/madhurja6/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/madhurja6/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/madhurja6/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhurja6/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/madhurja6/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhurja6/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/madhurja6/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Trie
 |  |
 | ------- |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/madhurja6/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/madhurja6/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/madhurja6/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
 | ------- |
@@ -752,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/madhurja6/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
