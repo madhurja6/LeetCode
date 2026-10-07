@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/madhurja6/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/madhurja6/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhurja6/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/madhurja6/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Stack
 |  |
 | ------- |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/madhurja6/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/madhurja6/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/madhurja6/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/madhurja6/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/madhurja6/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
