@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhurja6/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1829-maximum-xor-for-each-query](https://github.com/madhurja6/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/madhurja6/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/madhurja6/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
 | ------- |
