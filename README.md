@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/madhurja6/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhurja6/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/madhurja6/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/madhurja6/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madhurja6/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/madhurja6/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/madhurja6/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/madhurja6/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/madhurja6/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/madhurja6/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
