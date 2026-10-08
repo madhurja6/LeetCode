@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/madhurja6/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2536-increment-submatrices-by-one](https://github.com/madhurja6/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/madhurja6/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2551-put-marbles-in-bags](https://github.com/madhurja6/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/madhurja6/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/madhurja6/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/madhurja6/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2551-put-marbles-in-bags](https://github.com/madhurja6/LeetCode/tree/master/2551-put-marbles-in-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/madhurja6/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/madhurja6/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2551-put-marbles-in-bags](https://github.com/madhurja6/LeetCode/tree/master/2551-put-marbles-in-bags) |
 ## Trie
 |  |
 | ------- |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/madhurja6/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/madhurja6/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2551-put-marbles-in-bags](https://github.com/madhurja6/LeetCode/tree/master/2551-put-marbles-in-bags) |
 ## Merge Sort
 |  |
 | ------- |
