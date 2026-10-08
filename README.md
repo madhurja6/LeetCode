@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/madhurja6/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/madhurja6/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/madhurja6/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurja6/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/madhurja6/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/madhurja6/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurja6/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/madhurja6/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhurja6/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/madhurja6/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurja6/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
