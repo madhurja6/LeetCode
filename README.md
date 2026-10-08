@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/madhurja6/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/madhurja6/LeetCode/tree/master/2418-sort-the-people) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/madhurja6/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/madhurja6/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/madhurja6/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/madhurja6/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/madhurja6/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Matrix
 |  |
 | ------- |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/madhurja6/LeetCode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/madhurja6/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/madhurja6/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Minimax
 |  |
 | ------- |
