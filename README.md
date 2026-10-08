@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/madhurja6/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/madhurja6/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/madhurja6/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2396-strictly-palindromic-number](https://github.com/madhurja6/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/madhurja6/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madhurja6/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/madhurja6/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhurja6/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/madhurja6/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/madhurja6/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
 | ------- |
