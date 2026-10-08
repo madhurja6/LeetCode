@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurja6/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/madhurja6/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2536-increment-submatrices-by-one](https://github.com/madhurja6/LeetCode/tree/master/2536-increment-submatrices-by-one) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/madhurja6/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/madhurja6/LeetCode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/madhurja6/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/madhurja6/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/madhurja6/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/madhurja6/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2536-increment-submatrices-by-one](https://github.com/madhurja6/LeetCode/tree/master/2536-increment-submatrices-by-one) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/madhurja6/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Monotonic Stack
 |  |
 | ------- |
