@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/madhurja6/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/madhurja6/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/madhurja6/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/madhurja6/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/madhurja6/LeetCode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/madhurja6/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/madhurja6/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
