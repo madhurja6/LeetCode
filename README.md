@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhurja6/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/madhurja6/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/madhurja6/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/madhurja6/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/madhurja6/LeetCode/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/madhurja6/LeetCode/tree/master/2490-circular-sentence) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/madhurja6/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
