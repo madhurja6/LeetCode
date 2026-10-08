@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhurja6/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/madhurja6/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2523-closest-prime-numbers-in-range](https://github.com/madhurja6/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -952,19 +953,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhurja6/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/madhurja6/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/madhurja6/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhurja6/LeetCode/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/madhurja6/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2523-closest-prime-numbers-in-range](https://github.com/madhurja6/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhurja6/LeetCode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/madhurja6/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhurja6/LeetCode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/madhurja6/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prefix Sum
 |  |
 | ------- |
