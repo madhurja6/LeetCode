@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/madhurja6/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/madhurja6/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2733-neither-minimum-nor-maximum](https://github.com/madhurja6/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2785-sort-vowels-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/madhurja6/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/madhurja6/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/madhurja6/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2785-sort-vowels-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
