@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/madhurja6/LeetCode/tree/master/2490-circular-sentence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/madhurja6/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/madhurja6/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/madhurja6/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/madhurja6/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/madhurja6/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/madhurja6/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/madhurja6/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/madhurja6/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/madhurja6/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/madhurja6/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
