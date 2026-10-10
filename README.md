@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhurja6/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/madhurja6/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/madhurja6/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhurja6/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
