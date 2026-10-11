@@ -794,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/madhurja6/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/madhurja6/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/madhurja6/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [3133-minimum-array-end](https://github.com/madhurja6/LeetCode/tree/master/3133-minimum-array-end) |
 ## Matrix
 |  |
 | ------- |
