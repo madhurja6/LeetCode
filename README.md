@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhurja6/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/madhurja6/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/madhurja6/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhurja6/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/madhurja6/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhurja6/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-vowels-game-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhurja6/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/madhurja6/LeetCode/tree/master/2551-put-marbles-in-bags) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/madhurja6/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/madhurja6/LeetCode/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhurja6/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/madhurja6/LeetCode/tree/master/2974-minimum-number-game) |
 | [3100-water-bottles-ii](https://github.com/madhurja6/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/madhurja6/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhurja6/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
