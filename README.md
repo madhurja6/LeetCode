@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/madhurja6/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/madhurja6/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhurja6/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/madhurja6/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/madhurja6/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/madhurja6/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhurja6/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/madhurja6/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Monotonic Stack
 |  |
 | ------- |
