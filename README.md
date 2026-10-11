@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhurja6/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhurja6/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhurja6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/madhurja6/LeetCode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
