@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/madhurja6/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/madhurja6/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3227-vowels-game-in-a-string](https://github.com/madhurja6/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/madhurja6/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3280-convert-date-to-binary](https://github.com/madhurja6/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/madhurja6/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhurja6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/madhurja6/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/madhurja6/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Trie
 |  |
 | ------- |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/madhurja6/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurja6/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhurja6/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/madhurja6/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
