@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/madhurja6/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/madhurja6/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/madhurja6/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/madhurja6/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/madhurja6/LeetCode/tree/master/2974-minimum-number-game) |
 | [3100-water-bottles-ii](https://github.com/madhurja6/LeetCode/tree/master/3100-water-bottles-ii) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/madhurja6/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
