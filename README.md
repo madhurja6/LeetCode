@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-sort-matrix-by-diagonals](https://github.com/madhurja6/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/madhurja6/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/madhurja6/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhurja6/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/madhurja6/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3280-convert-date-to-binary](https://github.com/madhurja6/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhurja6/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/madhurja6/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/madhurja6/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/madhurja6/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1221,4 +1225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Design
+|  |
+| ------- |
+| [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
 <!---LeetCode Topics End-->
