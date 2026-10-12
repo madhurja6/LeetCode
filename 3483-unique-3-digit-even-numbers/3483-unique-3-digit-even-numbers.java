@@ -3,14 +3,15 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         int n = digits.length;
         for (int i = 0; i < n; i++) {
+            if (digits[i] == 0)
+                continue;
             for (int j = 0; j < n; j++) {
-                if (i == j || digits[i] == 0)
+                if (i == j)
                     continue;
                 for (int j2 = 0; j2 < n; j2++) {
-                    if (j == j2 || i == j2)
+                    if (j == j2 || i == j2 || digits[j2] % 2 != 0)
                         continue;
-                    if (digits[j2] % 2 == 0)
-                        set.add((digits[i] * 100) + (digits[j] * 10) + (digits[j2]));
+                    set.add((digits[i] * 100) + (digits[j] * 10) + (digits[j2]));
                 }
             }
         }
