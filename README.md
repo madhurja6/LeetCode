@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhurja6/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/madhurja6/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/madhurja6/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3467-transform-array-by-parity](https://github.com/madhurja6/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/madhurja6/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhurja6/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3446-sort-matrix-by-diagonals](https://github.com/madhurja6/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3467-transform-array-by-parity](https://github.com/madhurja6/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhurja6/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/madhurja6/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhurja6/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3467-transform-array-by-parity](https://github.com/madhurja6/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
