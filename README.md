@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhurja6/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/madhurja6/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-sort-matrix-by-diagonals](https://github.com/madhurja6/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/madhurja6/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/madhurja6/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/madhurja6/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/madhurja6/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/madhurja6/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/madhurja6/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Monotonic Stack
 |  |
 | ------- |
