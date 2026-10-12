@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhurja6/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhurja6/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/madhurja6/LeetCode/tree/master/3360-stone-removal-game) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/madhurja6/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/madhurja6/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/madhurja6/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3133-minimum-array-end](https://github.com/madhurja6/LeetCode/tree/master/3133-minimum-array-end) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/madhurja6/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
 | ------- |
