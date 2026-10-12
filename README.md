@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhurja6/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhurja6/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/madhurja6/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3379-transformed-array](https://github.com/madhurja6/LeetCode/tree/master/3379-transformed-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/madhurja6/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhurja6/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/madhurja6/LeetCode/tree/master/3360-stone-removal-game) |
+| [3379-transformed-array](https://github.com/madhurja6/LeetCode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
