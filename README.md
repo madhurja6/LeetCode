@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhurja6/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhurja6/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhurja6/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/madhurja6/LeetCode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/madhurja6/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/madhurja6/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhurja6/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3360-stone-removal-game](https://github.com/madhurja6/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
