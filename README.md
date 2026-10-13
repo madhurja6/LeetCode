@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhurja6/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/madhurja6/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/madhurja6/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhurja6/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Manacher
 |  |
 | ------- |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/madhurja6/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/madhurja6/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madhurja6/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhurja6/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/madhurja6/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhurja6/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhurja6/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
