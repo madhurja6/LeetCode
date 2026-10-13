@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3925-concatenate-array-with-reverse](https://github.com/madhurja6/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [4044-count-good-cyclic-rotations](https://github.com/madhurja6/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/madhurja6/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/madhurja6/LeetCode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-mirror-frequency-distance](https://github.com/madhurja6/LeetCode/tree/master/3889-mirror-frequency-distance) |
 | [3945-digit-frequency-score](https://github.com/madhurja6/LeetCode/tree/master/3945-digit-frequency-score) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/madhurja6/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/madhurja6/LeetCode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## String
 |  |
 | ------- |
