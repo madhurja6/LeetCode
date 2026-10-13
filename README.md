@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/madhurja6/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/madhurja6/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/madhurja6/LeetCode/tree/master/3889-mirror-frequency-distance) |
+| [3945-digit-frequency-score](https://github.com/madhurja6/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/madhurja6/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/madhurja6/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhurja6/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3945-digit-frequency-score](https://github.com/madhurja6/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
