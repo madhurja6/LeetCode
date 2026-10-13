@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/madhurja6/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/madhurja6/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/madhurja6/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/madhurja6/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/madhurja6/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/madhurja6/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/madhurja6/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
 |  |
 | ------- |
