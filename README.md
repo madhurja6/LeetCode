@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhurja6/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/madhurja6/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/madhurja6/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/madhurja6/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1211,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/madhurja6/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/madhurja6/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/madhurja6/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/madhurja6/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Quickselect
 |  |
 | ------- |
