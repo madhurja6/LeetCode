@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhurja6/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/madhurja6/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/madhurja6/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/madhurja6/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/madhurja6/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/madhurja6/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/madhurja6/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhurja6/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/madhurja6/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/madhurja6/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/madhurja6/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
