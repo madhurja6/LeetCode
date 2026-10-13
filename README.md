@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/madhurja6/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/madhurja6/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/madhurja6/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [4044-count-good-cyclic-rotations](https://github.com/madhurja6/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/madhurja6/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/madhurja6/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/madhurja6/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4044-count-good-cyclic-rotations](https://github.com/madhurja6/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 ## Binary Search
 |  |
 | ------- |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/madhurja6/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/madhurja6/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/madhurja6/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [4044-count-good-cyclic-rotations](https://github.com/madhurja6/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 ## Quickselect
 |  |
 | ------- |
