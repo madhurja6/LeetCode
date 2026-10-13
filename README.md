@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/madhurja6/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/madhurja6/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/madhurja6/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/madhurja6/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhurja6/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/madhurja6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/madhurja6/LeetCode/tree/master/0912-sort-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/madhurja6/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/madhurja6/LeetCode/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/madhurja6/LeetCode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/madhurja6/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Newton's Method
 |  |
 | ------- |
@@ -1158,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/madhurja6/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/madhurja6/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/madhurja6/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/madhurja6/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Quickselect
 |  |
 | ------- |
