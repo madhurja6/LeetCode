@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/madhurja6/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/madhurja6/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/madhurja6/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/madhurja6/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/madhurja6/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/madhurja6/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/madhurja6/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/madhurja6/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## String
 |  |
 | ------- |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhurja6/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/madhurja6/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/madhurja6/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/madhurja6/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
