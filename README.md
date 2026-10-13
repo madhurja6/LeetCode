@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/madhurja6/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/madhurja6/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/madhurja6/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3861-minimum-capacity-box](https://github.com/madhurja6/LeetCode/tree/master/3861-minimum-capacity-box) |
 ## Two Pointers
 |  |
 | ------- |
