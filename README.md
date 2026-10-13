@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/madhurja6/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/madhurja6/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3889-mirror-frequency-distance](https://github.com/madhurja6/LeetCode/tree/master/3889-mirror-frequency-distance) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/madhurja6/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/madhurja6/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/madhurja6/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/madhurja6/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/madhurja6/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhurja6/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/madhurja6/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/madhurja6/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Greedy
 |  |
 | ------- |
