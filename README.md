@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhurja6/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhurja6/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/madhurja6/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3606-coupon-code-validator](https://github.com/madhurja6/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhurja6/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/madhurja6/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/madhurja6/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/madhurja6/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3606-coupon-code-validator](https://github.com/madhurja6/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhurja6/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/madhurja6/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/madhurja6/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3606-coupon-code-validator](https://github.com/madhurja6/LeetCode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/madhurja6/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3606-coupon-code-validator](https://github.com/madhurja6/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
 | ------- |
