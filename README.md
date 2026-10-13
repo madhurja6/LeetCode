@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/madhurja6/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/madhurja6/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/madhurja6/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/madhurja6/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhurja6/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhurja6/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/madhurja6/LeetCode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/madhurja6/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/madhurja6/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-sort-matrix-by-diagonals](https://github.com/madhurja6/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3484-design-spreadsheet](https://github.com/madhurja6/LeetCode/tree/master/3484-design-spreadsheet) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/madhurja6/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/madhurja6/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
 |  |
 | ------- |
