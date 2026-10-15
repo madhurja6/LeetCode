@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhurja6/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/madhurja6/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhurja6/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhurja6/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhurja6/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/madhurja6/LeetCode/tree/master/2974-minimum-number-game) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/madhurja6/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/madhurja6/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/madhurja6/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/madhurja6/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhurja6/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhurja6/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhurja6/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/madhurja6/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1306,10 +1308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/madhurja6/LeetCode/tree/master/1395-count-number-of-teams) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhurja6/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/madhurja6/LeetCode/tree/master/1395-count-number-of-teams) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhurja6/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Geometry
 |  |
 | ------- |
