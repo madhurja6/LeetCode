@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/madhurja6/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhurja6/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/madhurja6/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/madhurja6/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/madhurja6/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/madhurja6/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/madhurja6/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhurja6/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/madhurja6/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/madhurja6/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/madhurja6/LeetCode/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/madhurja6/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhurja6/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
