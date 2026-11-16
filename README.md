@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/madhurja6/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/madhurja6/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2211-count-collisions-on-a-road](https://github.com/madhurja6/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhurja6/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/madhurja6/LeetCode/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/madhurja6/LeetCode/tree/master/2490-circular-sentence) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/madhurja6/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/madhurja6/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhurja6/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/madhurja6/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2326-spiral-matrix-iv](https://github.com/madhurja6/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/madhurja6/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
