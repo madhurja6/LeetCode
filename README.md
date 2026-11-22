@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/madhurja6/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/madhurja6/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/madhurja6/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/madhurja6/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/madhurja6/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2211-count-collisions-on-a-road](https://github.com/madhurja6/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/madhurja6/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
